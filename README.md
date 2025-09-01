@@ -35,8 +35,7 @@ A basic N8N workflow that reads bank expense emails and logs the details into Go
 ### 🖥️ [FTP HTML Auto Upload](https://github.com/arun1312/ftp-html-upload)  
 This was part of a task during my internship — a simple experiment to auto-generate HTML files using a script and upload them to a local FTP server. Helped me understand basic deployment flow, file handling, and working with server environments.
 
-### 🧪 SWAPO Web (Just Tried)  
-I started building a web version of an app, but honestly it didn’t work as planned 😅. Still, it taught me a lot about how backend APIs and frontend logic need to connect smoothly.
+
 
 ---
 
