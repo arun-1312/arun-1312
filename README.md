@@ -1,6 +1,6 @@
 # Hey there! I'm Arun 👋
 
-I'm currently doing my B.Tech in Computer Science Engineering at SRM Institute of Science and Technology, Kattankulathur — with a CGPA of 8.91 (so far 😅). I’m someone who loves building things, learning by doing, and exploring the real-world side of tech beyond just theory.
+I'm currently doing my B.Tech in Computer Science Engineering at SRM Institute of Science and Technology. I’m someone who loves building things, learning by doing, and exploring the real-world side of tech beyond just theory.
 
 ---
 
