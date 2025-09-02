@@ -62,7 +62,3 @@ I’m currently looking for **Summer 2026 internship opportunities** — prefera
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arun-1312&show_icons=true&theme=tokyonight)
-
