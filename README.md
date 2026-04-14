@@ -1,64 +1,60 @@
-# Hey there! I'm Arun 👋
+Hey, I'm Arun 👋
 
-I'm currently doing my B.Tech in Computer Science Engineering at SRM Institute of Science and Technology. I’m someone who loves building things, learning by doing, and exploring the real-world side of tech beyond just theory.
-
----
-
-## 💻 What I’m Up To
-
-Right now, I’m interning at **Zolabz**, a software solutions company, where I’m learning how real products are built and delivered. It’s been a cool experience working in a team, solving problems for actual users, and understanding the software lifecycle from a business point of view too.
-
-Besides that, I’ve been experimenting with side projects, trying out automation, full-stack web apps, and even small tools that help in day-to-day tasks. Some worked out great, some didn’t — but I learned something from all of them.
-
----
-
-## 🔧 Tech I’ve Worked With
-
-- **Languages**: JavaScript, Python, Java, C  
-- **Frontend**: React, HTML, CSS, Tailwind  
-- **Backend**: Node.js, Firebase, Flask (just started)  
-- **Database**: MySQL, MongoDB (basics)  
-- **Tools**: Git, GitHub, Postman, N8N, Google Sheets API, FTP
-
----
-
-## 🚀 Some Projects I’ve Worked On
-
-Here are a few things I’ve built (or at least tried building 😅):
-
-### 🎬 [Movie Watchlist Tracker](https://github.com/arun-1312/moviewatchlist)  
-A simple web app to track movies I want to watch — built using Node.js and PostgreSQL as part of my DBMS semester project. The goal was to get comfortable with backend basics, learn how SQL works in real apps, and understand CRUD operations through a practical use case.
-
-### 💸 [Email Expense Tracker](https://github.com/arun1312/email-expense-tracker)  
-A basic N8N workflow that reads bank expense emails and logs the details into Google Sheets. It was mostly done to get started with N8N and understand how workflows, triggers, and APIs work. Nothing fancy, but a cool intro to automation tools.
-
-### 🖥️ [FTP HTML Auto Upload](https://github.com/arun1312/ftp-html-upload)  
-This was part of a task during my internship — a simple experiment to auto-generate HTML files using a script and upload them to a local FTP server. Helped me understand basic deployment flow, file handling, and working with server environments.
+I'm a Computer Science Engineering student at SRM Institute of Science and Technology. I like building things that solve real problems — or at least trying my best at it.
 
 
+### What I'm Working On Right Now
 
----
+- **📱 Loan Manager App** (Flutter + SQLite)  
+  Started as a simple learning project… and somehow turned into a proper app I actually use.
 
-## 🌱 Interests & Goals
+- **🤖 Machine Learning**  
+  Currently working on invoice classification using DistilBERT (NLP).
 
-- Trying to understand ML and how to use AI in real apps  
-- Automating boring stuff — dashboards, tools, workflows  
-- Learning how to make clean, modern UI and scalable backend  
-- Exploring cloud (AWS, Azure) for hosting projects  
-- Building meaningful tools that actually help people
+- **⚡ Automation**  
+  Playing around with N8N, APIs, and building small workflows to make life easier.
 
----
+### Tech Stack
 
-## 📢 Looking For
+**Languages:** JavaScript, Python, Java, C  
+**Frontend:** React, HTML, CSS, Tailwind  
+**Backend:** Node.js, Firebase, Flask (still learning)  
+**Mobile:** Flutter  
+**Database:** MySQL, MongoDB, SQLite  
+**Tools:** AWS, Git, GitHub, Postman, N8N, REST APIs, DevOps
 
-I’m currently looking for **Summer 2026 internship opportunities** — preferably where I can contribute to building software, work with a team, and keep learning on the go. If you're building something exciting or looking for someone who learns fast and works hard, hit me up!
+### Projects
 
----
+**📱 Loan Manager App**  
+A basic finance tracking app I built for actual daily use. It handles loans, payments, interest calculations, and due reminders. Made it offline-first with SQLite.
 
-## 📬 Connect With Me
+**🧠 Smart Invoice Categorization**  
+An ML project where I used DistilBERT to automatically classify invoices. Focused on making document automation more practical.
 
-- 📧 [aruneswaran1312@gmail.com](mailto:aruneswaran1312@gmail.com)  
-- 💼 [LinkedIn – @aruneswaran1312](https://www.linkedin.com/in/arun-eswaran-dev/)
+**🎬 Movie Watchlist Tracker**  
+[Link](https://github.com/arun-1312/moviewatchlist)  
+Built with Node.js + PostgreSQL. Helped me get comfortable with backend basics and CRUD operations.
 
----
+### What I'm Into
+- Building apps that people can actually use
+- Automation and productivity hacks
+- Applying AI/ML to solve everyday problems
+- Clean, simple interfaces with solid backend logic
 
+### Goals
+- Get really solid at full-stack and mobile development
+- Build useful products (not just demo projects)
+- Work on real software with a team
+
+### Looking For
+I'm actively looking for **2026 internships** where I can:
+- Work on actual products
+- Learn from experienced people
+- Contribute in a meaningful way
+
+### Let's Connect
+- 📧 aruneswaran1312@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/arun-eswaran-dev/)
+
+### Fun Fact
+Almost every project of mine started with “this should be easy”… and then reality hit 😅
