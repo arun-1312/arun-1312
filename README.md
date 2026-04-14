@@ -55,6 +55,3 @@ I'm actively looking for **2026 internships** where I can:
 ### Let's Connect
 - 📧 aruneswaran1312@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/arun-eswaran-dev/)
-
-### Fun Fact
-Almost every project of mine started with “this should be easy”… and then reality hit 😅
