@@ -1,57 +1,90 @@
-Hey, I'm Arun 👋
+# Arun Eswaran 👋
 
-I'm a Computer Science Engineering student at SRM Institute of Science and Technology. I like building things that solve real problems — or at least trying my best at it.
+**Computer Science Engineering Student @ SRM Institute of Science and Technology**  
+**Full-Stack Developer | AI/ML Engineer | Mobile App Developer**
 
+---
 
-### What I'm Working On Right Now
+## Featured Projects
 
-- **📱 Loan Manager App** (Flutter + SQLite)  
-  Started as a simple learning project… and somehow turned into a proper app I actually use.
+### [AgentFlow](https://github.com/arun-1312/agentflow) `TypeScript`
+**Local Multi-Agent RAG Orchestrator**  
+A fully local, privacy-first multi-agent system powered by LangGraph, ChromaDB, and Qwen. It orchestrates intelligent agents for complex Retrieval-Augmented Generation workflows without relying on external APIs — ideal for secure, offline AI applications.
 
-- **🤖 Machine Learning**  
-  Currently working on invoice classification using DistilBERT (NLP).
+**Tech:** TypeScript • LangGraph • ChromaDB • Qwen • LangChain
 
-- **⚡ Automation**  
-  Playing around with N8N, APIs, and building small workflows to make life easier.
+---
 
-### Tech Stack
+### [Invoice Categorization System](https://github.com/arun-1312/invoice-categorization-system) `Python`
+**Intelligent Document Classification Engine**  
+Extracts text from PDF invoices and accurately predicts the most appropriate category using fine-tuned NLP models. Designed to automate accounts-payable workflows and reduce manual document processing time for businesses and finance teams.
 
-**Languages:** JavaScript, Python, Java, C  
-**Frontend:** React, HTML, CSS, Tailwind  
-**Backend:** Node.js, Firebase, Flask (still learning)  
-**Mobile:** Flutter  
-**Database:** MySQL, MongoDB, SQLite  
-**Tools:** AWS, Git, GitHub, Postman, N8N, REST APIs, DevOps
+**Tech:** Python • DistilBERT (Hugging Face) • PDF parsing • Scikit-learn
 
-### Projects
+---
 
-**📱 Loan Manager App**  
-A basic finance tracking app I built for actual daily use. It handles loans, payments, interest calculations, and due reminders. Made it offline-first with SQLite.
+### [Job Matching Platform](https://github.com/arun-1312/job-matching-platform) `Python`
+**Full-Stack Role-Based Job Marketplace**  
+A complete web platform that connects job seekers and employers with intelligent matching, profile management, and secure role-based access control (job-seeker vs. employer dashboards). Built with a focus on clean UX and scalable backend architecture.
 
-**🧠 Smart Invoice Categorization**  
-An ML project where I used DistilBERT to automatically classify invoices. Focused on making document automation more practical.
+**Tech:** Python (FastAPI/Flask backend) • React.js • PostgreSQL • JWT Authentication • Role-Based Access Control
 
-**🎬 Movie Watchlist Tracker**  
-[Link](https://github.com/arun-1312/moviewatchlist)  
-Built with Node.js + PostgreSQL. Helped me get comfortable with backend basics and CRUD operations.
+---
 
-### What I'm Into
-- Building apps that people can actually use
-- Automation and productivity hacks
-- Applying AI/ML to solve everyday problems
-- Clean, simple interfaces with solid backend logic
+### [Loan Manager](https://github.com/arun-1312/loan-manager) `Dart`
+**Offline-First Personal Finance Tracker**  
+A practical Flutter application for managing personal and peer-to-peer loans. Tracks borrowers, payments, interest calculations, due dates, and monthly reminders — built with real-world usability and complete offline functionality in mind using SQLite.
 
-### Goals
-- Get really solid at full-stack and mobile development
-- Build useful products (not just demo projects)
-- Work on real software with a team
+**Tech:** Dart • Flutter • SQLite • Provider/Riverpod State Management • Offline-First Architecture
 
-### Looking For
-I'm actively looking for **2026 internships** where I can:
-- Work on actual products
-- Learn from experienced people
-- Contribute in a meaningful way
+---
 
-### Let's Connect
-- 📧 aruneswaran1312@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/arun-eswaran-dev/)
+## Tech Stack
+
+| Category              | Technologies |
+|-----------------------|--------------|
+| **Languages**         | Python, TypeScript, JavaScript, Dart, Java, C |
+| **AI & ML**           | LangGraph, LangChain, ChromaDB, DistilBERT, Hugging Face, Scikit-learn |
+| **Frontend**          | React, Tailwind CSS, HTML/CSS |
+| **Backend**           | FastAPI, Flask, Node.js, Firebase |
+| **Mobile**            | Flutter |
+| **Databases**         | PostgreSQL, MySQL, MongoDB, SQLite, ChromaDB (vector) |
+| **Tools & Others**    | Git, GitHub, Postman, N8N (automation), REST APIs, AWS (basics), Docker |
+
+---
+
+## Education
+
+**B.Tech in Computer Science and Engineering**  
+SRM Institute of Science and Technology, Kattankulathur  [2027]
+
+---
+
+## What I'm Currently Exploring
+
+- Multi-agent AI systems and local LLM orchestration  
+- End-to-end document intelligence pipelines  
+- Scalable full-stack applications with modern authentication & role-based systems  
+- Automation and productivity tools that make everyday workflows smarter
+
+---
+
+## Seeking 2026 Internships
+
+I am actively looking for **Software Engineering / AI / Full-Stack internships** (Summer/Fall 2026) where I can:
+
+- Contribute to real products used by actual users  
+- Work alongside experienced engineers and learn best practices  
+- Take ownership of meaningful features from day one  
+
+Open to roles in **AI/ML Engineering**, **Full-Stack Development**, **Mobile Development**, or **Backend Systems**.
+
+---
+
+## Let's Connect
+
+- **Email:** [aruneswaran1312@gmail.com](mailto:aruneswaran1312@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/arun-eswaran](https://linkedin.com/in/arun-eswaran-dev) 
+- **GitHub:** [github.com/arun-1312](https://github.com/arun-1312)
+
+Feel free to reach out if you’re working on something interesting — I’m always excited to collaborate or just chat about tech!
