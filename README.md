@@ -49,7 +49,7 @@ A practical Flutter application for managing personal and peer-to-peer loans. Tr
 | **Backend**           | FastAPI, Flask, Node.js, Firebase |
 | **Mobile**            | Flutter |
 | **Databases**         | PostgreSQL, MySQL, MongoDB, SQLite, ChromaDB (vector) |
-| **Tools & Others**    | Git, GitHub, Postman, N8N (automation), REST APIs, AWS (basics), Docker |
+| **Tools & Others**    | Git, GitHub, Postman, N8N (automation), REST APIs, AWS , Docker, Ollama |
 
 ---
 
